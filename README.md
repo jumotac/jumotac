@@ -1,4 +1,4 @@
-### Olá! Eu sou a Juliana Mota 👋
+### Olá! Eu sou a Ju Mota 👋
 
 - 🔭 Atualmente trabalho na área de MARKETING, mas estou em transição de carreira, migrando para TECNOLOGIA!
 - 🌱 Estou estudando em Lógica de Programação, Estrutura de Dados, HTML, CSS, Javascript, Typescript, React, NodeJS, Java. 
