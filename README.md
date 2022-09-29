@@ -1,9 +1,4 @@
-### Olá! Eu sou a Ju Mota 👋
-
-- 🔭 Atualmente trabalho na área de MARKETING, mas estou em transição de carreira, migrando para TECNOLOGIA!
-- 🌱 Estou estudando em Lógica de Programação, Estrutura de Dados, HTML, CSS, Javascript, Typescript, React, NodeJS, Java. 
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: Em 2021 iniciei a minha formação na área de tecnologia para me tornar uma Full Stack Developer.
+# Olá! Eu sou a Ju Mota, estudante de programação e futura Full Stack Developer. 👩🏼‍💻
 
 <div align="center">
   <a href="https://github.com/jumotac">
