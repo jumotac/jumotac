@@ -9,13 +9,11 @@ Em 2021 comecei a estudar programação e fiquei realmente encantanda ao descobr
 
 </br>
 
-- 👩🏻‍💻 Estudando para me tornar uma desenvolvedora Front-End. 
+- 👩🏻‍💻 Estudando para me tornar uma desenvolvedora Front-End, é onde quero me aprofundar.
 
 - 🔭 Há quase dois anos consegui migrar de carreira e estou atuando na área.
 
 - 🚀 Acabei de me formar na MBA de Fullstack na FIAP.
-
-- 👩🏻‍💻 Estudando para me tornar uma desenvolvedora Front-End, é onde quero me aprofundar.
 
 - ☕ Amo um bom café;
 
