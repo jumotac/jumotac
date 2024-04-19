@@ -5,17 +5,17 @@
 
 Bem-vindos ao meu Github!!! 
 
-Em 2021 comecei a estudar programação e fiquei realmente encantanda ao descobrir o quão incrível era esse universo 🌎  
+Sou uma profissional apaixonada por desafios e por explorar novos horizontes. Iniciei minha carreira no mundo do marketing, mas em 2021 descobri o mundo da **programação** e fiquei verdadeiramente fascinada ao descobrir o quão incrível é esse universo 🌎
 
 </br>
 
-- 👩🏻‍💻 Estudando para me tornar uma desenvolvedora Front-End, é onde quero me aprofundar.
+- 👩🏻‍🎓 Estou em constante estudo para me tornar uma desenvolvedora **Front-End**, é onde desejo me aprofundar.
 
-- 🔭 Há quase dois anos consegui migrar de carreira e estou atuando na área.
+- 👩🏻‍💻 Há quase dois anos, consegui realizar uma transição de carreira e estou atuando como desenvolvedora no Banco Itaú.
 
-- 🚀 Acabei de me formar na MBA de Fullstack na FIAP.
+- 🚀 Recentemente, concluí minha MBA em **Fullstack** na FIAP.
 
-- ☕ Amo um bom café;
+- 🎧 Amo assistir séries e ouvir música.
 
 </br>
 
